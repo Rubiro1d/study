@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\vova_\source\repos\PA\Source.cpp(132,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(151,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(158,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(173,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(198,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(200,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(210,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(218,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vova_\source\repos\PA\Source.cpp(241,27): warning C4018: <: несоответствие типов со знаком и без знака
+  PA.vcxproj -> C:\Users\vova_\source\repos\PA\Debug\PA.exe
